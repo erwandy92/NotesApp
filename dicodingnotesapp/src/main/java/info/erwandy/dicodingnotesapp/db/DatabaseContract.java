@@ -1,4 +1,4 @@
-package info.erwandy.dicodingmynotesapp.db;
+package info.erwandy.dicodingnotesapp.db;
 
 import android.database.Cursor;
 import android.net.Uri;
