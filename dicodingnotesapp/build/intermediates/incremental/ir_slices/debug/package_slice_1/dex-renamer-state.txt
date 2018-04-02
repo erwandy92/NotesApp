@@ -1,0 +1,4 @@
+#Mon Apr 02 10:50:39 CST 2018
+base.0=D\:\\Projects\\Android\\DicodingMyNotesApp\\dicodingnotesapp\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

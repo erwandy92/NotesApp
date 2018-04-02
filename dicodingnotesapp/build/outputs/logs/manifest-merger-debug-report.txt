@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\5b3db74e98f9a390d274f21be9038692\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\51cdab27648a9dbeae8b5ad1bfe97221\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\f4899f63c6e35ab9e6c4fa330f95701f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\0e0a0d9aa4e618071355d168c4cb468c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\33f95f213cd46b40e667472486752e12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\3d95a83c2a2ffe9746fea60600700d4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\dedb154a886134982211c53960b9a8c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\5e84183debd5e09253106bf6762942ac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3930c9b4c1f4e333ba474f834e4a40c3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\938f325f69db2234f7f339b0dc5f0bc9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e00ace1787267f4238178ad1a1ec045e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93d2c0bf64898f336fffbadc505f14a0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:2:11-69
+uses-permission#info.erwandy.dicodingmynotesapp.READ_DATABASE
+ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:5:5-85
+	android:name
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:5:22-82
+uses-permission#info.erwandy.dicodingmynotesapp.WRITE_DATABASE
+ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:6:5-86
+	android:name
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:6:22-83
+application
+ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\51cdab27648a9dbeae8b5ad1bfe97221\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\51cdab27648a9dbeae8b5ad1bfe97221\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:14:9-40
+activity#info.erwandy.dicodingnotesapp.MainActivity
+ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:19:27-74
+activity#info.erwandy.dicodingnotesapp.FormActivity
+ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml:22:19-47
+uses-sdk
+INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\5b3db74e98f9a390d274f21be9038692\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\5b3db74e98f9a390d274f21be9038692\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\51cdab27648a9dbeae8b5ad1bfe97221\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\51cdab27648a9dbeae8b5ad1bfe97221\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\f4899f63c6e35ab9e6c4fa330f95701f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\f4899f63c6e35ab9e6c4fa330f95701f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\0e0a0d9aa4e618071355d168c4cb468c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\0e0a0d9aa4e618071355d168c4cb468c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\33f95f213cd46b40e667472486752e12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\33f95f213cd46b40e667472486752e12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\3d95a83c2a2ffe9746fea60600700d4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\3d95a83c2a2ffe9746fea60600700d4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\dedb154a886134982211c53960b9a8c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\dedb154a886134982211c53960b9a8c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\5e84183debd5e09253106bf6762942ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\5e84183debd5e09253106bf6762942ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3930c9b4c1f4e333ba474f834e4a40c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3930c9b4c1f4e333ba474f834e4a40c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\938f325f69db2234f7f339b0dc5f0bc9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\938f325f69db2234f7f339b0dc5f0bc9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e00ace1787267f4238178ad1a1ec045e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e00ace1787267f4238178ad1a1ec045e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93d2c0bf64898f336fffbadc505f14a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Nursing Bank IT Dept\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93d2c0bf64898f336fffbadc505f14a0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android\DicodingMyNotesApp\dicodingnotesapp\src\main\AndroidManifest.xml
