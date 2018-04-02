@@ -4,7 +4,7 @@ import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import info.erwandy.dicodingmynotesapp.db.DatabaseContract;
+import static info.erwandy.dicodingmynotesapp.db.NoteColumns.TABLE_NOTE;
 
 /**
  * Created by Nursing Bank IT Dept on 3/22/2018.
@@ -20,11 +20,11 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                     " %s TEXT NOT NULL," +
                     " %s TEXT NOT NULL," +
                     " %s TEXT NOT NULL)",
-            DatabaseContract.TABLE_NOTE,
-            DatabaseContract.NoteColumns._ID,
-            DatabaseContract.NoteColumns.TITLE,
-            DatabaseContract.NoteColumns.DESCRIPTION,
-            DatabaseContract.NoteColumns.DATE
+            TABLE_NOTE,
+            NoteColumns._ID,
+            NoteColumns.TITLE,
+            NoteColumns.DESCRIPTION,
+            NoteColumns.DATE
     );
 
     public DatabaseHelper(Context context) {
@@ -38,7 +38,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-        db.execSQL("DROP TABLE IF EXISTS " + DatabaseContract.TABLE_NOTE);
+        db.execSQL("DROP TABLE IF EXISTS " + TABLE_NOTE);
         onCreate(db);
     }
 }

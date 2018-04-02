@@ -5,6 +5,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 import info.erwandy.dicodingmynotesapp.db.DatabaseContract;
+import info.erwandy.dicodingmynotesapp.db.NoteColumns;
 
 import static android.provider.BaseColumns._ID;
 import static info.erwandy.dicodingmynotesapp.db.DatabaseContract.getColumnInt;
@@ -70,9 +71,9 @@ public class Note implements Parcelable {
 
     public Note(Cursor cursor){ //Ditambahkan untuk Content Provider purpose
         this.id = getColumnInt(cursor, _ID);
-        this.title = getColumnString(cursor, DatabaseContract.NoteColumns.TITLE);
-        this.description = getColumnString(cursor, DatabaseContract.NoteColumns.DESCRIPTION);
-        this.date = getColumnString(cursor, DatabaseContract.NoteColumns.DATE);
+        this.title = getColumnString(cursor, NoteColumns.TITLE);
+        this.description = getColumnString(cursor, NoteColumns.DESCRIPTION);
+        this.date = getColumnString(cursor, NoteColumns.DATE);
     }
 
     protected Note(Parcel in) {

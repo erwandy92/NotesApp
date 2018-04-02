@@ -7,11 +7,11 @@ import android.database.Cursor;
 import android.net.Uri;
 import android.support.annotation.NonNull;
 
-import info.erwandy.dicodingmynotesapp.db.DatabaseContract;
 import info.erwandy.dicodingmynotesapp.db.NoteHelper;
 
 import static info.erwandy.dicodingmynotesapp.db.DatabaseContract.AUTHORITY;
 import static info.erwandy.dicodingmynotesapp.db.DatabaseContract.CONTENT_URI;
+import static info.erwandy.dicodingmynotesapp.db.NoteColumns.TABLE_NOTE;
 
 public class NoteProvider extends ContentProvider {
 
@@ -23,11 +23,11 @@ public class NoteProvider extends ContentProvider {
     static {
 
         // content://com.dicoding.mynotesapp/note
-        sUriMatcher.addURI(AUTHORITY, DatabaseContract.TABLE_NOTE, NOTE);
+        sUriMatcher.addURI(AUTHORITY, TABLE_NOTE, NOTE);
 
         // content://com.dicoding.mynotesapp/note/id
         sUriMatcher.addURI(AUTHORITY,
-                DatabaseContract.TABLE_NOTE+ "/#",
+                TABLE_NOTE+ "/#",
                 NOTE_ID);
     }
 

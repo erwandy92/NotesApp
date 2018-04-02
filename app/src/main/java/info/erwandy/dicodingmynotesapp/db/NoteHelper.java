@@ -10,8 +10,8 @@ import java.util.ArrayList;
 
 import info.erwandy.dicodingmynotesapp.entity.Note;
 
-import static info.erwandy.dicodingmynotesapp.db.DatabaseContract.NoteColumns.*;
-import static info.erwandy.dicodingmynotesapp.db.DatabaseContract.TABLE_NOTE;
+import static info.erwandy.dicodingmynotesapp.db.NoteColumns.*;
+import static info.erwandy.dicodingmynotesapp.db.NoteColumns.TABLE_NOTE;
 
 /**
  * Created by Nursing Bank IT Dept on 3/22/2018.
